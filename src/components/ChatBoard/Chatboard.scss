@@ -1,0 +1,10 @@
+$size_emoji: 30px;
+$width_picker: 1000px;
+$height_picker: 150px;
+$bg_picker: #f1f1f1;
+
+
+$padding_emoji: 20px;
+$padding_emoji_list: 8px;
+
+@import '../../../node_modules/emoji-picker-react/dist/universal/style.scss'; // relative path to your node modules
