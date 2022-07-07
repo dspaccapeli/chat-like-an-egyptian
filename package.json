@@ -8,7 +8,7 @@
     "emoji-mart": "^2.11.1",
     "emoji-picker-react": "^2.1.1",
     "firebase": "^5.11.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
